@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1646882454 source:c:\users\sourour\desktop\prog11\enseignant.cpp
+	"Enseignant.h"
+
+1646882032 c:\users\sourour\desktop\prog11\enseignant.h
+	<iostream>
+	"Personne.h"
+	<string>
+	<regex>
+	<iomanip>
+
+1715076655 c:\users\sourour\desktop\prog11\personne.h
+	<iostream>
+	<vector>
+	<string>
+
+1646882506 source:c:\users\sourour\desktop\prog11\groupemodule.cpp
+	"GroupeModule.h"
+
+1646882012 c:\users\sourour\desktop\prog11\groupemodule.h
+	<iostream>
+	<string>
+	"Matiere.h"
+	<vector>
+	<iomanip>
+
+1646882004 c:\users\sourour\desktop\prog11\matiere.h
+	<iostream>
+	<string>
+	<vector>
+	<iomanip>
+	"Enseignant.h"
+
+1646882512 source:c:\users\sourour\desktop\prog11\matiere.cpp
+	"Matiere.h"
+
+1646882518 source:c:\users\sourour\desktop\prog11\note.cpp
+	"Note.h"
+
+1709586329 c:\users\sourour\desktop\prog11\note.h
+	<iostream>
+	<vector>
+	"Matiere.h"
+	"Etudiant.h"
+	<string>
+	<iomanip>
+
+1715076473 c:\users\sourour\desktop\prog11\etudiant.h
+	<iostream>
+	<vector>
+	"Personne.h"
+	<string>
+	<regex>
+	<iomanip>
+

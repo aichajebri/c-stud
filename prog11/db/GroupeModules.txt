@@ -1,0 +1,4 @@
+1 info 4
+2 info 4
+4 mod1 2
+3 info 4
